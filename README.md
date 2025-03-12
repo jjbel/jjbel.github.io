@@ -1,5 +1,24 @@
-# SvelteKit template
+## Content
 
-1. SvelteKit for routing.
-2. static site generation for Github Pages & corresponding Github Action
-3. Global CSS with no default styling, Inter font
+Resume
+
+Academics
+    Research
+
+Simulation
+
+Hobbies (non-technical?)
+
+Blog
+
+JEE Advice
+
+## Appearance
+
+Pixel fonts? Pixelify Sans
+
+render using webgl?
+
+TV/lens-distortion/chromatic aberration effect?
+
+see "cool personal portfolios"
